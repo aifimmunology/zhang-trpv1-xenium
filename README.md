@@ -4,7 +4,7 @@ In this repository, we provide the code used for the processing, analysis, and v
 
 ---
 
-![Spatial overview](./misc/overview.png)
+![Spatial overview](./misc/overview.pdf)
 
 ---
 
