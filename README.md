@@ -4,6 +4,10 @@ In this repository, we provide the code used for the processing, analysis, and v
 
 ---
 
+![Spatial overview](./misc/overview.png)
+
+---
+
 ## Data Availability
 
 Raw and processed spatial transcriptomics data are available at the Gene Expression Omnibus (GEO) under accession number: **[GEO accession here once available]**.  
@@ -11,7 +15,7 @@ Raw and processed spatial transcriptomics data are available at the Gene Express
 ---
 
 ## Notebooks
-[Link](./notebooks)
+[Link to notebooks](./notebooks)
 
 This directory contains the primary Jupyter notebooks and scripts used in the analysis pipeline. Each folder contains notebooks that are numbered in the order they were run (e.g. `01a_`, `01b_`). Each step builds on outputs from the previous stage.
 
@@ -30,7 +34,7 @@ Before running the code, adjust file and directory paths in [`config/paths.py`](
 ---
 
 ## Computing environments
-[Link](./envs)
+[Link to conda environments](./envs)
 
 This directory contains environment specifications used for reproducible analyses. Each file defines the dependencies required for a particular stage of the workflow in the form of a pinned conda environment. This information is directly linked at the notebook-level.
 
