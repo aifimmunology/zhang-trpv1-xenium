@@ -15,7 +15,7 @@ Raw and processed spatial transcriptomics data are available at the Gene Express
 
 This directory contains the primary Jupyter notebooks and scripts used in the analysis pipeline. Each folder contains notebooks that are numbered in the order they were run (e.g. `01a_`, `01b_`). Each step builds on outputs from the previous stage.
 
-Before running the code, adjust file and directory paths in [`config/paths.py`](../../config/paths.py) to match computing environment. 
+Before running the code, adjust file and directory paths in [`config/paths.py`](./config/paths.py) to match computing environment. 
 
 | Subdirectory             | Description                                                                                   |
 |--------------------------|-----------------------------------------------------------------------------------------------|
