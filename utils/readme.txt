@@ -1,0 +1,1 @@
+The `core_functions` directory is from: https://github.com/Goldrathlab/Spatial-TRM-paper (Reina-Campos et al., Nature, 2025)

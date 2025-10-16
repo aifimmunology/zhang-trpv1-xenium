@@ -1,0 +1,25 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files
+data/raw/
+data/processed/
+data/h5ad/
+data/csv/
+
+# Ignore Conda environment folders (if any)
+.env/
+.venv/
+.mamba_env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs or outputs
+*.log
+*.out
