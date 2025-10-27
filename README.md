@@ -10,7 +10,7 @@ In this repository, we provide the code used for the processing, analysis, and v
 
 ## Data Availability
 
-Raw and processed spatial transcriptomics data are available at the Gene Expression Omnibus (GEO) under accession number: **[GEO accession here once available]**.  
+Raw and processed spatial transcriptomics data are available at the EBI BioImage Archive under accession number: **S-BIAD2351**.  
 
 ---
 
